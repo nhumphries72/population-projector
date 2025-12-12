@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+datetime
+matplotlib
+scipy
+streamlit
